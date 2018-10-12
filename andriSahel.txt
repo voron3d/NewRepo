@@ -1,5 +1,6 @@
 Andrii Sahel
 https://github.com/voron3d/NewRepo
+<<<<<<< HEAD
 kjdslkgahdsg
 kgddlysoydfgfd 
 asdgh;lkjhadsg
@@ -9,3 +10,14 @@ gd
 lifljfdljgd
 
  dg fdg
+=======
+adsf
+sadf
+asdf
+asdf
+asdf
+gfdsa
+asdg
+asdg
+adsg
+>>>>>>> newbranch
